@@ -1,0 +1,62 @@
+body{ background-color: peachpuff; }
+
+footer{
+    background-color: orange;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    border-radius:20px;
+    margin:20px;
+    padding: 10px;
+    margin-right: 20px;
+    bottom: 0;   
+    position: fixed;
+    width: 92.5%;
+    right = 0;
+}
+
+h1{
+    background-color: orange;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    border-radius:20px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 94.5%;
+
+}
+
+.adder{
+    background-color: orange;
+    text-align: center;
+    border-radius:20px;
+    margin:20px;
+    height: 80%;
+    width: 93.4%;
+    position: fixed;
+}
+
+#task{
+    margin-top: 30px;
+    vertical-align: middle;
+    width: 400px;
+    height: 30px;
+    border-radius:20px;
+    font-size: 20px;
+}
+
+#addition{
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 40px;
+    height: 30px;
+    border-radius: 20px;
+    width: 80%;
+    vertical-align: center;
+    margin-left: 70px;
+    margin-right: 50px;
+    text-align: left;
+}
